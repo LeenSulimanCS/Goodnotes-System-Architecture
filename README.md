@@ -33,7 +33,7 @@ Through this project, I applied core Software Engineering principles, including:
 
 ### System Design Diagrams
 ![Software Architectural Design Diagram](./diagrams/software-architectural-design.png)
-![Use Case Diagram](./diagrams/use-case.png)
+![Use Case Diagram](diagrams/use-case.png)
 ![Sequence1 Diagram](./diagrams/sequence1.png)
 ![Sequence2 Diagram](./diagrams/sequence2.png)
 ![Sequence3 Diagram](./diagrams/sequence3.png)
