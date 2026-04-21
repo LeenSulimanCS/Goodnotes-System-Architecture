@@ -30,3 +30,12 @@ Through this project, I applied core Software Engineering principles, including:
 - Requirement engineering (Functional & Non-functional).
 - Architectural design decisions.
 - Professional UML modeling to bridge the gap between requirements and implementation.
+
+### System Design Diagrams
+![Use Case Diagram](./diagrams/software-architectural-design.png)
+![Class Diagram](./diagrams/use-case.png)
+![Use Case Diagram](./diagrams/sequence1.png)
+![Class Diagram](./diagrams/sequence2.png)
+![Use Case Diagram](./diagrams/sequence3.png)
+![Class Diagram](./diagrams/activity.png)
+![Use Case Diagram](./diagrams/class.png)
