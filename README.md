@@ -32,10 +32,10 @@ Through this project, I applied core Software Engineering principles, including:
 - Professional UML modeling to bridge the gap between requirements and implementation.
 
 ### System Design Diagrams
-![Use Case Diagram](./diagrams/software-architectural-design.png)
-![Class Diagram](./diagrams/use-case.png)
-![Use Case Diagram](./diagrams/sequence1.png)
-![Class Diagram](./diagrams/sequence2.png)
-![Use Case Diagram](./diagrams/sequence3.png)
-![Class Diagram](./diagrams/activity.png)
-![Use Case Diagram](./diagrams/class.png)
+![Software Architectural Design Diagram](./diagrams/software-architectural-design.png)
+![Use Case Diagram](./diagrams/use-case.png)
+![Sequence1 Diagram](./diagrams/sequence1.png)
+![Sequence2 Diagram](./diagrams/sequence2.png)
+![Sequence3 Diagram](./diagrams/sequence3.png)
+![Activity Diagram](./diagrams/activity.png)
+![Class Diagram](./diagrams/class.png)
